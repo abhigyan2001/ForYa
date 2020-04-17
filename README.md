@@ -4,4 +4,4 @@ An experimental project trying to create a Fourier Series and Transform visualiz
 
 ## The Aim
 
-The aim here is to create a visualizer which is able to perform basic Signal Processing extremely well while also learning how to use Python for creating such a GUI-based application.
+The aim here is to create a visualizer which is able to perform basic Signal Processing extremely well while also learning to use more Python modules for creating a GUI-based application like this.
